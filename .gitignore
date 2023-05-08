@@ -1,0 +1,4 @@
+airflow_hw/data
+logs
+conn_env
+airflow_hw/dags
